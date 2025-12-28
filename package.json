@@ -1,0 +1,15 @@
+{
+  "name": "horror-ludo-fixed",
+  "version": "4.1.0",
+  "description": "Horror Ludo mit Room-Reset Fix",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  },
+  "author": "Ghost Master",
+  "license": "ISC"
+}
